@@ -62,9 +62,16 @@ We envision a world where everyone has access to the knowledge and tools necessa
 2.**Install Dependencies:**
    ```bash
    pip install -r requirements.txt
+   ```
+3.**Run the Application:**
+  ```bash
+  flask run
+  ```
+---
 The app will start locally on http://127.0.0.1:5000.
-Access the Web App: Open a browser and go to http://127.0.0.1:5000 to start using the platform.
-
+---
+4.Access the Web App: Open a browser and go to http://127.0.0.1:5000 to start using the platform.
+---
 **Contributing**
 We welcome contributions! Feel free to submit pull requests to enhance features, fix bugs, or improve the user experience
 
