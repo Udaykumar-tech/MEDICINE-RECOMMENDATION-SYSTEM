@@ -1,5 +1,5 @@
-# Medical Health Center: Symptom-Based Disease Diagnosis Web App\
-![Alt text describing the image](https://github.com/username/repository/blob/main/path/to/image.png?raw=true)
+# Medical Health Center: Symptom-Based Disease Diagnosis Web App
+![Project logo](https://github.com/user-attachments/assets/7bca5d59-3f76-4069-9186-5723f18f3d94)
 
 Welcome to **Medical Health Center**, where we bring healthcare and technology together for a brighter, healthier future. This web app leverages AI and machine learning to provide symptom-based disease predictions, empowering users with accessible healthcare insights from the convenience of their own devices.
 
