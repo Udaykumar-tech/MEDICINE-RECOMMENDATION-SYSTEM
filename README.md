@@ -1,5 +1,5 @@
 # Medical Health Center: Symptom-Based Disease Diagnosis Web App
-
+![Alt text for logo](Project logo.jpg)
 Welcome to **Medical Health Center**, where we bring healthcare and technology together for a brighter, healthier future. This web app leverages AI and machine learning to provide symptom-based disease predictions, empowering users with accessible healthcare insights from the convenience of their own devices.
 
 ## Here's what sets our system apart:
