@@ -2,7 +2,7 @@
 
 Welcome to **Medical Health Center**, where we bring healthcare and technology together for a brighter, healthier future. This web app leverages AI and machine learning to provide symptom-based disease predictions, empowering users with accessible healthcare insights from the convenience of their own devices.
 
-##Here's what sets our system apart:
+## Here's what sets our system apart:
 
 **User-Friendly Interface:** Our intuitive interface allows users to input their symptoms effortlessly, creating a seamless user experience.
 
@@ -70,11 +70,11 @@ We envision a world where everyone has access to the knowledge and tools necessa
 The app will start locally on http://127.0.0.1:5000.
 
 4.Access the Web App: Open a browser and go to http://127.0.0.1:5000 to start using the platform.
----
-##Contributing
+--
+## Contributing
 We welcome contributions! Feel free to submit pull requests to enhance features, fix bugs, or improve the user experience
 
-##Join Us on the Journey
+## Join Us on the Journey
 Thank you for choosing Medical Health Center as your trusted health companion. We're here to support you in your journey to better health with reliable predictions, resources, and insights.
 
 
