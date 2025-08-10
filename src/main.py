@@ -4,23 +4,22 @@ import pandas as pd
 import pickle
 
 
-# flask app
+# Flask app instance
 app = Flask(__name__)
 
+# Directory of this file
+app_dir = os.path.dirname(os.path.abspath(__file__))
 
+# Load CSVs
+sym_des = pd.read_csv(os.path.join(app_dir, "datasets", "symtoms_df.csv"))
+precautions = pd.read_csv(os.path.join(app_dir, "datasets", "precautions_df.csv"))
+workout = pd.read_csv(os.path.join(app_dir, "datasets", "workout_df.csv"))
+description = pd.read_csv(os.path.join(app_dir, "datasets", "description.csv"))
+medications = pd.read_csv(os.path.join(app_dir, "datasets", "medications.csv"))
+diets = pd.read_csv(os.path.join(app_dir, "datasets", "diets.csv"))
 
-# load databasedataset===================================
-sym_des = pd.read_csv("datasets/symtoms_df.csv")
-precautions = pd.read_csv("datasets/precautions_df.csv")
-workout = pd.read_csv("datasets/workout_df.csv")
-description = pd.read_csv("datasets/description.csv")
-medications = pd.read_csv('datasets/medications.csv')
-diets = pd.read_csv("datasets/diets.csv")
-
-
-# load model===========================================
-svc = pickle.load(open('models/svc.pkl','rb'))
-
+# Load model
+svc = pickle.load(open(os.path.join(app_dir, "models", "svc.pkl"), "rb"))
 
 #============================================================
 # custome and helping functions
