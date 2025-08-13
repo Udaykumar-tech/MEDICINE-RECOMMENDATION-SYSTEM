@@ -76,7 +76,7 @@ app will start locally on http://127.0.0.1:5000.
 Access the Web App: Open a browser and go to http://127.0.0.1:5000 to start using the platform.
 
 ## Contributing
-We welcome contributions! Feel free to submit pull requests to enhance features, fix bugs, or improve the user experience.
+We welcome contributions! Feel free to submit pull requests to enhance features, fix bugs, or improve the user experience
 
 ## Join Us on the Journey
 Thank you for choosing Medical Health Center as your trusted health companion. We're here to support you in your journey to better health with reliable predictions, resources, and insights.
